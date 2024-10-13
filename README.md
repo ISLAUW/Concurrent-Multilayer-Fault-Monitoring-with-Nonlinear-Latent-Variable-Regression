@@ -3,4 +3,4 @@ This is my research work on concurrent kernel latent variable regression and its
 This work has been published by ACS. 
 The link is https://pubs.acs.org/doi/10.1021/acs.iecr.1c03360.
 
-The dataset in my codes is Tennessee Eastman Process (TEP).
+The dataset in my MATLAB codes is Tennessee Eastman Process (TEP).
